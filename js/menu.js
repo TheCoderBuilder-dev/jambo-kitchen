@@ -60,7 +60,7 @@ const menuData = [
         description: "Fragrant spiced rice cooked with beef, onions and traditional pilau masala",
         price: 550,
         category: "mains",
-        image: "https://images.unsplash.com/photo-1596797038530-2c107229654b?w=400",
+        image: "https://weeatatlast.com/wp-content/uploads/2021/09/swahili-kenyan-pilau.jpg",
         tags: ["Popular"]
     },
     {
@@ -87,7 +87,7 @@ const menuData = [
         description: "Traditional maize and beans stew with vegetables and beef",
         price: 400,
         category: "mains",
-        image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400",
+        image: "https://i0.wp.com/gwenjikoni.com/wp-content/uploads/2022/02/IMG_20211028_105848-scaled.jpg?resize=2048%2C1102&ssl=1",
         tags: ["Traditional", "Healthy"]
     },
     {
