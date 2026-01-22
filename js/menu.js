@@ -15,7 +15,7 @@ const menuData = [
         description: "Thinly sliced potatoes coated in spiced gram flour, deep fried to perfection",
         price: 280,
         category: "starters",
-        image: "https://images.unsplash.com/photo-1567337710282-00832b415979?w=400",
+        image: "https://keeshaskitchen.com/wp-content/uploads/2022/03/Kenyan-Bhajias.jpg",
         tags: ["Vegetarian"]
     },
     {
